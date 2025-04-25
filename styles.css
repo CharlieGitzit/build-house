@@ -207,6 +207,125 @@ body {
     background-color:seagreen;
   }
 
+  #left-side-fence {
+    position: absolute;
+    top: -125px;
+    width: 425px;
+    height: 125px;
+    background-color:rgb(187, 132, 60);
+  }
+
+  .mark-one {
+    position: absolute;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-two {
+    position: absolute;
+    left: 30px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-three {
+    position: absolute;
+    left: 60px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-four {
+    position: absolute;
+    left: 90px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-five {
+    position: absolute;
+    left: 120px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-six {
+    position: absolute;
+    left: 150px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-seven {
+    position: absolute;
+    left: 180px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-eight {
+    position: absolute;
+    left: 210px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-nine {
+    position: absolute;
+    left: 240px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-ten {
+    position: absolute;
+    left: 270px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-eleven {
+    position: absolute;
+    left: 300px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-twelve {
+    position: absolute;
+    left: 330px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-thirteen {
+    position: absolute;
+    left: 360px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
+  .mark-fourteen {
+    position: absolute;
+    left: 390px;
+    height: 125px;
+    width: 12px;
+    background-color:rgb(148, 84, 41)
+  }
+
   #right-side-backyard {
     position: absolute;
     top: 250px;
@@ -214,6 +333,22 @@ body {
     width: 370px;
     height: 125px;
     background-color:seagreen;
+  }
+
+  #right-side-fence {
+    position: absolute;
+    top: -125px;
+    width: 370px;
+    height: 125px;
+    background-color: rgb(187, 132, 60);
+  }
+
+  .marks-one {
+    position: ;
+    left: 20px;
+    height: 125px;
+    width: 370px;
+    background-color:rgb(148, 84, 41)
   }
 
   #path {
