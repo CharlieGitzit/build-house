@@ -342,15 +342,7 @@ body {
     height: 125px;
     background-color: rgb(187, 132, 60);
   }
-
-  .marks-one {
-    position: ;
-    left: 20px;
-    height: 125px;
-    width: 370px;
-    background-color:rgb(148, 84, 41)
-  }
-
+  
   #path {
     position: absolute;
     left: 627px;
